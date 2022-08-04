@@ -1,0 +1,11 @@
+.header a{
+    border: 2px solid rgb(150, 79, 29);
+    border-radius: 4px;
+    padding: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin: 6px;
+    color: azure;
+    text-decoration: none;
+    background-color: rgb(89, 104, 102);
+}
